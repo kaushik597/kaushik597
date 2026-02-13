@@ -11,7 +11,7 @@ I’m a big fan of JavaScript and love building cool things with it. I’m alway
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Javascript🎯 Goals: Build real time applications all by my own<br>🎲 Fun fact: its a long journey</p>
+<p align="left">✨ About to discover myself and my true potential</p>
 
 ###
 
